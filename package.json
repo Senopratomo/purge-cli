@@ -1,0 +1,14 @@
+{
+  "name": "purge-cli",
+  "version": "1.0.0",
+  "description": "Simple CLI to clear Akamai cache. It's build on top of Fast Purge API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ernest Senopratomo",
+  "license": "ISC",
+  "dependencies": {
+    "akamai-edgegrid": "^3.2.0"
+  }
+}

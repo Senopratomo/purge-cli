@@ -1,0 +1,6 @@
+node_modules
+node_modules/**
+
+purge-linux
+purge-macos
+purge-win.exe
